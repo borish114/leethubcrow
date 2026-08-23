@@ -73,4 +73,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/borish114/leethubcrow/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
