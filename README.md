@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/borish114/leethubcrow/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/borish114/leethubcrow/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/borish114/leethubcrow/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/borish114/leethubcrow/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 ## Math
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/borish114/leethubcrow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/borish114/leethubcrow/tree/master/0005-longest-palindromic-substring) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/borish114/leethubcrow/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/borish114/leethubcrow/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
