@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/borish114/leethubcrow/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,9 +74,11 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/borish114/leethubcrow/tree/master/0053-maximum-subarray) |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -88,5 +91,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
