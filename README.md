@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/borish114/leethubcrow/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/borish114/leethubcrow/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/borish114/leethubcrow/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/borish114/leethubcrow/tree/master/0035-search-insert-position) |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/borish114/leethubcrow/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
