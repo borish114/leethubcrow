@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/borish114/leethubcrow/tree/master/0002-add-two-numbers) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 ## String
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/borish114/leethubcrow/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/borish114/leethubcrow/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/borish114/leethubcrow/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
