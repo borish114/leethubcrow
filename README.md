@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/borish114/leethubcrow/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/borish114/leethubcrow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
