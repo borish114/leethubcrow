@@ -95,6 +95,7 @@
 | [0006-zigzag-conversion](https://github.com/borish114/leethubcrow/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/borish114/leethubcrow/tree/master/0008-string-to-integer-atoi) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/borish114/leethubcrow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Manacher
 |  |
 | ------- |
