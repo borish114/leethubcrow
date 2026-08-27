@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -98,10 +99,12 @@
 | [0010-regular-expression-matching](https://github.com/borish114/leethubcrow/tree/master/0010-regular-expression-matching) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0001-two-sum](https://github.com/borish114/leethubcrow/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/borish114/leethubcrow/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +147,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/borish114/leethubcrow/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
