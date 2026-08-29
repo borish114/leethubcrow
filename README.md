@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/borish114/leethubcrow/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/borish114/leethubcrow/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/borish114/leethubcrow/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
