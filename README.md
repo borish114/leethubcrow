@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/borish114/leethubcrow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -115,6 +116,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/borish114/leethubcrow/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/borish114/leethubcrow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
