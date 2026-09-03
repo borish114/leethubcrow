@@ -25,6 +25,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/borish114/leethubcrow/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/borish114/leethubcrow/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/borish114/leethubcrow/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/borish114/leethubcrow/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/borish114/leethubcrow/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
