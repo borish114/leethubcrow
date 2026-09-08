@@ -102,6 +102,7 @@
 | [0010-regular-expression-matching](https://github.com/borish114/leethubcrow/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/borish114/leethubcrow/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/borish114/leethubcrow/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/borish114/leethubcrow/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
@@ -129,6 +130,7 @@
 | [0014-longest-common-prefix](https://github.com/borish114/leethubcrow/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/borish114/leethubcrow/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/borish114/leethubcrow/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/borish114/leethubcrow/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
