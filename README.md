@@ -23,6 +23,7 @@
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/borish114/leethubcrow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/borish114/leethubcrow/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/borish114/leethubcrow/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -39,6 +40,7 @@
 | [0074-search-a-2d-matrix](https://github.com/borish114/leethubcrow/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/borish114/leethubcrow/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/borish114/leethubcrow/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [0115-distinct-subsequences](https://github.com/borish114/leethubcrow/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/borish114/leethubcrow/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
