@@ -141,6 +141,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/borish114/leethubcrow/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/borish114/leethubcrow/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
