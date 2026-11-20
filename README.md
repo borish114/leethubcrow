@@ -27,6 +27,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/borish114/leethubcrow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/borish114/leethubcrow/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/borish114/leethubcrow/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/borish114/leethubcrow/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/borish114/leethubcrow/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -74,6 +75,7 @@
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/borish114/leethubcrow/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/borish114/leethubcrow/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -117,6 +119,7 @@
 | [0115-distinct-subsequences](https://github.com/borish114/leethubcrow/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/borish114/leethubcrow/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/borish114/leethubcrow/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
