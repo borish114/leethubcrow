@@ -28,6 +28,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/borish114/leethubcrow/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/borish114/leethubcrow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/borish114/leethubcrow/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/borish114/leethubcrow/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/borish114/leethubcrow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/borish114/leethubcrow/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/borish114/leethubcrow/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -155,6 +156,7 @@
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/borish114/leethubcrow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/borish114/leethubcrow/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/borish114/leethubcrow/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/borish114/leethubcrow/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -191,6 +193,7 @@
 | [0012-integer-to-roman](https://github.com/borish114/leethubcrow/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/borish114/leethubcrow/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/borish114/leethubcrow/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/borish114/leethubcrow/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/borish114/leethubcrow/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/borish114/leethubcrow/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/borish114/leethubcrow/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -248,10 +251,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/borish114/leethubcrow/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/borish114/leethubcrow/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/borish114/leethubcrow/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/borish114/leethubcrow/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
