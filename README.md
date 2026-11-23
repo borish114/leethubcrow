@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/borish114/leethubcrow/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/borish114/leethubcrow/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/borish114/leethubcrow/tree/master/0912-sort-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/borish114/leethubcrow/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/borish114/leethubcrow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/borish114/leethubcrow/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -131,6 +132,7 @@
 | [0009-palindrome-number](https://github.com/borish114/leethubcrow/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/borish114/leethubcrow/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/borish114/leethubcrow/tree/master/0013-roman-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/borish114/leethubcrow/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/borish114/leethubcrow/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/borish114/leethubcrow/tree/master/3870-count-commas-in-range) |
@@ -178,6 +180,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/borish114/leethubcrow/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/borish114/leethubcrow/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/borish114/leethubcrow/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/borish114/leethubcrow/tree/master/3904-smallest-stable-index-ii) |
@@ -270,4 +273,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/borish114/leethubcrow/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/borish114/leethubcrow/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/borish114/leethubcrow/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/borish114/leethubcrow/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
